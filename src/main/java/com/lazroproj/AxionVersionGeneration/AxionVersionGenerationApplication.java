@@ -11,6 +11,7 @@ public class AxionVersionGenerationApplication {
 		// Added Some development
 		// Added some comment for commit
 		// Added some comment for second commit
+		// Adding comment for simple commit which will not be tagged
 	}
 
 }
