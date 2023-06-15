@@ -19,8 +19,6 @@ jobs:
         with:
           distribution: 'corretto'
           java-version: 17
-      - name: Change wrapper permissions
-        run: chmod +x ./gradlew
       - name: See current Version
         run: ./gradlew currentVersion
       - name: Run Axion Release
