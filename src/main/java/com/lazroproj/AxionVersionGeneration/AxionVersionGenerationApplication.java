@@ -10,6 +10,7 @@ public class AxionVersionGenerationApplication {
 		SpringApplication.run(AxionVersionGenerationApplication.class, args);
 		// Added Some development
 		// Added some comment for commit
+		// Added some comment for second commit
 	}
 
 }
