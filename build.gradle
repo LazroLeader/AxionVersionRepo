@@ -16,7 +16,7 @@ scmVersion {
 	localOnly.set(true)
 	useHighestVersion.set(true)
 	branchVersionCreator.putAll([
-			'develop/.*': {version, position -> version + '-SNAPSHOT'}
+			'develop/.*': {version, position -> 'something'}
 	])
 }
 
